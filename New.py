@@ -1,2 +1,3 @@
 def auth ():
-    pass
+    for i in range(6):
+        pass
